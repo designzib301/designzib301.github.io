@@ -1,0 +1,17 @@
+# Site settings
+title: Design zib 301
+email: ooota33@gmail.com
+description: Design portfolios
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "http://designzib301.github.io" # the base hostname & protocol for your site
+copyright: '&copy; 2017 Designzib301'
+
+# Build settings
+markdown: kramdown
+
+# Custom theme could be generated at: https://getmdl.io/customize/index.html
+material_theme: blue-deep_orange
+
+# Google Analytics account ID (UA-XXXXXXXX-X)
+
+#google-analytics-ua: UA-84475574-1
