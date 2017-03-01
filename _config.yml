@@ -1,7 +1,7 @@
 # Site settings
-title: Design zib 301
+title: Designzib301
 email: ooota33@gmail.com
-description: Design portfolios
+description: Design portfolio's
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://designzib301.github.io" # the base hostname & protocol for your site
 copyright: '&copy; 2017 Designzib301'
